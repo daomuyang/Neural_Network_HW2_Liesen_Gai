@@ -83,5 +83,5 @@ python confusion_matrix.py
 该代码中采用交互式设计，可以自行选择想要生成图片的实验
 生成的图片将保存至 `codes/figs/` 目录。
 
-## 预训练模型
+## 模型
 本实验训练好的模型**未随代码上传**，请从ModelScope下载（链接详见实验报告），并放置于 `codes/saved_models/` 目录下；最优模型放置于 `codes/best_models/` 目录下
